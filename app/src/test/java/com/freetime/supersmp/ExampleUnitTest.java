@@ -1,4 +1,4 @@
-package com.freetime.the_flash;
+package com.freetime.supersmp;
 
 import org.junit.Test;
 

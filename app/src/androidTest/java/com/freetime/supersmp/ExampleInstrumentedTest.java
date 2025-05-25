@@ -1,4 +1,4 @@
-package com.freetime.the_flash;
+package com.freetime.supersmp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.freetime.the_flash", appContext.getPackageName());
+        assertEquals("com.freetime.supersmp", appContext.getPackageName());
     }
 }

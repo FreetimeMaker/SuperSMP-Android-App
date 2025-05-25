@@ -1,4 +1,4 @@
-package com.freetime.the_flash;
+package com.freetime.supersmp;
 
 import android.os.Bundle;
 import android.webkit.WebView;
@@ -28,6 +28,6 @@ public class MainActivity extends AppCompatActivity {
         myWeb = findViewById(R.id.myWeb);
         myWeb.getSettings().setJavaScriptEnabled(true);
         myWeb.setWebViewClient(new WebViewClient());
-        myWeb.loadUrl("https://freetimemaker.github.io/The-Flash/");
+        myWeb.loadUrl("https://freetimemaker.github.io/SuperSMP/");
     }
 }

@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "The-Flash"
+rootProject.name = "SuperSMP"
 include ':app'
